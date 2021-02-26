@@ -1,25 +1,29 @@
 {
   "name": "team_profile_generator",
   "version": "1.0.0",
-  "description": "OOP with test for HW week 10",
+  "description": "OOP and testing for week 10 homework",
   "main": "app.js",
-  "dependencies": {
-    "inquirer": "^7.3.3",
-    "jest": "^26.6.3",
-    "chalk": "^3.0.0"
-  },
-  "devDependencies": {},
-  "scripts": {
+  "directories": {
+    "lib": "lib",
     "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rroman6292/Team_Profile_Generator.git"
+    "url": "git+https://github.com/rroman6292"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rroman6292/Team_Profile_Generator/issues"
+    "url": "https://github.com/rroman6292"
   },
-  "homepage": "https://github.com/rroman6292/Team_Profile_Generator#readme"
+  "homepage": "https://github.com/rroman6292",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
