@@ -1,0 +1,24 @@
+{
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "OOP with test for HW week 10",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rroman6292/Team_Profile_Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rroman6292/Team_Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/rroman6292/Team_Profile_Generator#readme"
+}
