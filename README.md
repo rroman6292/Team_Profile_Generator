@@ -21,6 +21,8 @@ No contributions at the moment
 In order to test open the console and run the following:
 ```npm test```
 ### Questions:
-If you have any questions contact me on [GitHub](https://github.com/rroman6292) or contact 
-Richie Roman at answer417gmail.com
+If you have any questions contact me on [GitHub](https://github.com/rroman6292)
 ![picture](https://github.com/rroman6292.png?size=80)
+
+
+For a video walkthrough please click [here.](https://youtu.be/BpH4Qc2uqT4)
